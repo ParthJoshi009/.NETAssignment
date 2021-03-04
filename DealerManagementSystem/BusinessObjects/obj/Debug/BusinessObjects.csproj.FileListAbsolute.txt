@@ -4,3 +4,9 @@ C:\Users\win-10\source\repos\DealerManagementSystem\BusinessObjects\obj\Debug\Bu
 C:\Users\win-10\source\repos\DealerManagementSystem\BusinessObjects\obj\Debug\BusinessObjects.dll
 C:\Users\win-10\source\repos\DealerManagementSystem\BusinessObjects\obj\Debug\BusinessObjects.pdb
 C:\Users\win-10\source\repos\DealerManagementSystem\BusinessObjects\obj\Debug\BusinessObjects.csprojAssemblyReference.cache
+C:\Users\win-10\Documents\GitHub\.NETAssignment\DealerManagementSystem\BusinessObjects\bin\Debug\BusinessObjects.dll
+C:\Users\win-10\Documents\GitHub\.NETAssignment\DealerManagementSystem\BusinessObjects\bin\Debug\BusinessObjects.pdb
+C:\Users\win-10\Documents\GitHub\.NETAssignment\DealerManagementSystem\BusinessObjects\obj\Debug\BusinessObjects.csprojAssemblyReference.cache
+C:\Users\win-10\Documents\GitHub\.NETAssignment\DealerManagementSystem\BusinessObjects\obj\Debug\BusinessObjects.csproj.CoreCompileInputs.cache
+C:\Users\win-10\Documents\GitHub\.NETAssignment\DealerManagementSystem\BusinessObjects\obj\Debug\BusinessObjects.dll
+C:\Users\win-10\Documents\GitHub\.NETAssignment\DealerManagementSystem\BusinessObjects\obj\Debug\BusinessObjects.pdb
